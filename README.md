@@ -7,7 +7,7 @@
 [![License](https://img.shields.io/badge/license-AGPL--3.0-blue.svg)]()
 [![Demo](https://img.shields.io/badge/demo-online-brightgreen.svg)]()
 
-**在线演示：** [点击访问 GitHub Pages 版本](https://<你的用户名>.github.io/Meta-Test-Hub/)
+**在线演示：** [点击访问 GitHub Pages 版本](https://jiangwtt.github.io/Meta-Test-Hub/)
 
 ---
 
